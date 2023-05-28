@@ -1,4 +1,4 @@
-package cl.paseodelasdelicias.microservices.model;
+package cl.cloud.app.currencyexchange.model;
 
 import java.math.BigDecimal;
 

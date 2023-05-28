@@ -1,8 +1,8 @@
-package cl.paseodelasdelicias.microservices.repository;
+package cl.cloud.app.currencyexchange.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import cl.paseodelasdelicias.microservices.model.ExchangeValue;
+import cl.cloud.app.currencyexchange.model.ExchangeValue;
 
 public interface ExchangeValueRepository extends JpaRepository<ExchangeValue, Integer> {
 	

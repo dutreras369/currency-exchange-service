@@ -8,7 +8,7 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cl.paseodelasdelicias.microservices</groupId>
+	<groupId>cl.cloud.app.currencyexchange</groupId>
 	<artifactId>currency-exchange-service</artifactId>
 	<version>1.0</version>
 	<name>currency-exchange-service</name>
